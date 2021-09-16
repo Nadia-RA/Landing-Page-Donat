@@ -1,0 +1,57 @@
+
+p{
+
+}
+title{
+    color: ivory;
+}
+body{
+    /*background-color: turquoise;*/
+    background-image: url('../images/background1.jpg')
+}
+
+h1{
+    color: rgb(76, 78, 73);
+    font-style: initial;
+    text-align: center;
+    font-variant: unset;
+    display: block;
+    margin: 0 auto 0 auto;
+
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-style: oblique;
+    text-align: center;
+}
+h4{
+    font-style: italic; 
+}
+    
+
+ul{
+    color: rgb(255, 5, 5);
+    font-size: 20px;
+    text-align: center;
+    
+}
+ol{
+    font-size: 10;
+    font-kerning: auto;
+}
+
+#manisan-salak-basah{
+    height: 100px;
+    
+
+}
+#manisan-salak-kering{
+    height: 200px;
+    
+    
+}
+.destination{
+    color:saddlebrown
+}

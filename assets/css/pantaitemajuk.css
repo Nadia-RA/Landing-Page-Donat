@@ -1,0 +1,111 @@
+body{
+    /*background-image: url(../images/pantai-temajuk-kalimantan-barat.jpg);*/
+    background-image: url(../images/BIRU.jpg);
+}
+li{
+    display: inline-block;
+    color: black;
+    margin-top: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    float: right;
+    margin-right: 50px;
+}
+h1{
+    position: relative;
+    color:black;
+    font-weight: bold;
+    left: 530px;
+    top: 220px;
+    font-size: 40px;
+}
+li:hover{
+    background-color: black;
+    color: white;
+}
+h2{
+    font-style: italic;
+}
+h3{
+    font: size 200px;
+    color:black;
+    font-weight: bold;
+    left: 530px;
+    top: 220px;
+    text-align: center;
+}
+h4{
+    color:rgb(94, 70, 180);
+    font-size: x-large;
+    font-style: italic;
+}
+h5{
+    font-size:x-large;
+    font-style: italic; 
+}
+.button a{
+    color: black;
+    margin-left: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 15px;
+}
+.button{
+    margin-left: 420px;
+    margin-top: 380px;
+}
+.button a:hover{
+    background-color: black;
+    color: white;
+}
+#pantai-temajuk-kalimantan-barat{
+    height: 300px;
+    margin-left: 1px;
+    margin-top: 5px;
+}
+#rumah-terbalik-temajuk{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#Rumah-Terbalik-1{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#Rumah-Terbalik-2{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#Rumah-Terbalik-3{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#Rumah-Terbalik-4{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#Rumah-Terbalik-5{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#pantai1{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;   
+}
+#pantai2{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;   
+}
+#pantai3{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;   
+}
